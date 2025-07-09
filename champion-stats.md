@@ -2,8 +2,6 @@
 title: Champion Statistics
 ---
 
-# Champion Statistics
-
 Details and stats about champions go here.
 
 ## Navigation
