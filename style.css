@@ -1,0 +1,35 @@
+/* Basic reset and body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Navigation bar styling */
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+/* Navigation links */
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect */
+.navbar a:hover {
+  background-color: #555;
+}
+
+/* Active link (optional, if you add JS or custom classes later) */
+.navbar a.active {
+  background-color: #007bff;
+}
