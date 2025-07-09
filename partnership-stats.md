@@ -2,8 +2,6 @@
 title: Partnership Statistics
 ---
 
-# Partnership Statistics
-
 Details about duo and team performance go here.
 
 ## Navigation
