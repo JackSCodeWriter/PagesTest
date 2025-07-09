@@ -2,8 +2,6 @@
 title: Streak Records
 ---
 
-# Streak Records
-
 Longest win/loss streaks tracked here.
 
 ## Navigation
