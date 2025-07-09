@@ -2,8 +2,6 @@
 title: Dashboard
 ---
 
-# Dashboard
-
 Welcome to the Arena Stats Tracker homepage!
 
 ## Navigation
